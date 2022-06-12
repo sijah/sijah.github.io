@@ -574,7 +574,6 @@
 }
 
 .u-section-7 .u-blog-1 {
-  min-height: 375px;
   margin-bottom: 60px;
 }
 
@@ -582,6 +581,7 @@
   grid-auto-columns: calc(33.3333% - 6.66667px);
   grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px);
   grid-gap: 10px 10px;
+  min-height: 375px;
 }
 
 .u-section-7 .u-container-layout-1 {

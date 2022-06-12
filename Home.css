@@ -30,7 +30,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 180deg;
   --animation-custom_in-scale: 1;
-  margin: 60px auto -25px;
+  margin: 40px auto -5px 25px;
 }
 
 .u-section-1 .u-layout-cell-2 {
@@ -74,6 +74,7 @@
   .u-section-1 .u-image-1 {
     width: 410px;
     height: 410px;
+    margin-left: 0;
   }
 
   .u-section-1 .u-layout-cell-2 {

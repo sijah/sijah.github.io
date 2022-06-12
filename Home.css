@@ -728,6 +728,11 @@
   margin: 20px 1px 0 9px;
 }
 
+.u-section-9 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-9 .u-text-3 {
   text-transform: uppercase;
   font-weight: 700;
@@ -796,7 +801,7 @@
   margin-left: auto;
 }
 
-.u-section-9 .u-btn-1 {
+.u-section-9 .u-btn-2 {
   border-style: none;
   text-transform: uppercase;
   letter-spacing: 2px;

@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: sijah.github.io
+Token: 9dd557199bb530a698a28b611e2dd9b9394bb2ab1e7bddcebe7cd17956bd22ec

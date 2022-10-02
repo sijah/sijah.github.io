@@ -361,6 +361,16 @@
   right: 0;
 }
 
+@media (max-width: 1199px) {
+  .u-block-c21b-3 {
+    padding: 10px;
+  }
+
+  .u-block-c21b-4 {
+    padding: 10px;
+  }
+}
+
 .u-section-5-1 .u-sheet-1 {
   min-height: 587px;
 }
